@@ -40,6 +40,8 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - Tuned hyperparameters of the BoloGAN, a conditional WGAN‑Gradient Penalty model simulating ATLAS calorimeter, using grid search algorithm based on the validation metric of reduced chi squares between Geant4 and generated energy distributions, on LXBATCH cluster at CERN.
 - Developed python scripts for data analysis, bash scripts for running jobs on HPC system, wrote Keras callbacks, utilized Tensorboard dashboards, and generated parallel coordinate graphs using Matplotlib
 ![BoloGAN](/media/Screenshot 2025-02-18 060956.png)
+![BoloGAN](/media/Best-reducedchi2-Pions.png.png)
+![BoloGAN](/media/imageData-High12.png)
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
