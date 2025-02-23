@@ -16,18 +16,21 @@ businesses make production‑ready applied AI products.
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Build Systems (CMake, Makefile)
 - **Soft Skills**: Communication, Teamwork, Problem-Solving, Time Management
 
-### Open Source Projects
+## Open Source Projects
 
 Here are some of the open-source projects I have worked on:
 
-- **Advanced RAG Pipelines Powered by LLMs**  
+###Advanced RAG Pipelines Powered by LLMs
   A project focused on building advanced Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs).
+  [Repository](https://github.com/wisabd/AdvancedRagLLM)
 
-- **CNN-Based Self-Driving Car Simulation**  
+###CNN-Based Self-Driving Car Simulation 
   A simulation of a self-driving car using Convolutional Neural Networks (CNNs) for image recognition and decision-making.
-
-- **Gradient Boosting Trees for Bankruptcy Prediction in Poland**  
+  [Repository](https://github.com/wisabd/SelfDrivingCarSim)
+  
+###Gradient Boosting Trees for Bankruptcy Prediction in Poland
   A machine learning project using gradient boosting trees to predict bankruptcy for companies in Poland.
+ [Repository](https://github.com/wisabd/BankruptcyPoland)
 
 ### Research
 **Master Thesis Project @ ATLAS Collaboration,  Geneva, Switzerland (_August 2024 - Present_)**
