@@ -16,13 +16,18 @@ businesses make production‑ready applied AI products.
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Build Systems (CMake, Makefile)
 - **Soft Skills**: Communication, Teamwork, Problem-Solving, Time Management
 
-### Opensource
-*Advanced RAG pipelines powered by LLMs*
-    -nm
-*CNN-based self driving car simulation*
-    -,n
-*Gradient boosting trees for bankruptcy prediction in Poland*
-    - jn
+### Open Source Projects
+
+Here are some of the open-source projects I have worked on:
+
+- **Advanced RAG Pipelines Powered by LLMs**  
+  A project focused on building advanced Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs).
+
+- **CNN-Based Self-Driving Car Simulation**  
+  A simulation of a self-driving car using Convolutional Neural Networks (CNNs) for image recognition and decision-making.
+
+- **Gradient Boosting Trees for Bankruptcy Prediction in Poland**  
+  A machine learning project using gradient boosting trees to predict bankruptcy for companies in Poland.
 
 ### Research
 **Master Thesis Project @ ATLAS Collaboration,  Geneva, Switzerland (_August 2024 - Present_)**
