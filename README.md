@@ -17,11 +17,11 @@ businesses make production‑ready applied AI products.
 - **Soft Skills**: Communication, Teamwork, Problem-Solving, Time Management
 
 ### Opensource
-**Advanced RAG pipelines powered by LLMs**
+*Advanced RAG pipelines powered by LLMs*
     -nm
-**CNN-based self driving car simulation**
+*CNN-based self driving car simulation*
     -,n
-**Gradient boosting trees for bankruptcy prediction in Poland**
+*Gradient boosting trees for bankruptcy prediction in Poland*
     - jn
 
 ### Research
