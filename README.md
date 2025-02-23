@@ -47,6 +47,10 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - Wrote MATLAB scripts to calculate Fast Fourier Transform of the bioelectrical signals, used structural mechanics module of COMSOL to conduct static analysis of displacement of the Multi electrode array, and designed chip using Autodesk 3dsMax.
 ![Signal](/media/Screenshot 2025-02-23 194151.png)
 
+**Summer Research Internship @ Korea Institute of Science and Technology Information, Daejeon, South Korea(_July 2017 - August 2017_)
+- Profiling of CERN's simulation tooklit on Tachyon2 supercomputer. Wrote bash scripts to run Madgraph to simulate e+e- collision cross-sections 
+![E+E-](/media/Screenshot 2025-02-23 195616.png)
+
 ## Education
 - M.S.,Physics|University of Bologna (March 2025)
 - B.S,Electrical Engineering|Korea Advanced Institute of Science and Technology (February 2020)
