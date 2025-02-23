@@ -1,4 +1,4 @@
-# Resume
+# AI Engineer and Computational Physicist
 
 ### Summary
 Graduate student at University of Bologna specializing in generative learning and high energy physics in
