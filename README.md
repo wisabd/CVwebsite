@@ -47,7 +47,7 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 
 
 
-### Education
+## Education
 - M.S.,Physics|University of Bologna (March 2025)
 - B.S,Electrical Engineering|Korea Advanced Institute of Science and Technology (February 2020)
 - A-level,Sciences and Computer Science|Lahore Grammar School JT Boys (June 2015)
