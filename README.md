@@ -67,4 +67,4 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - Programming in Python
 - Data Structures and Algorithms C++
 
-## Academic Projects
+## Medium Articles
