@@ -38,8 +38,8 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 **Master Thesis Project @ ATLAS Collaboration,  Geneva, Switzerland (_August 2024 - Present_)**
 
 - Tuned hyperparameters of the BoloGAN, a conditional WGAN‑Gradient Penalty model simulating ATLAS calorimeter, using grid search algorithm based on the validation metric of reduced chi squares between Geant4 and generated energy distributions, on LXBATCH cluster at CERN.
-- Developed python scripts for data analysis, bash scripts for running jobs on HPC system, wrote Keras callbacks, utilized Tensorboard dashboards, and generated parallel coordinate graphs using Matplotlib
 ![BoloGAN](/media/Screenshot 2025-02-18 060956.png)
+- Developed python scripts for data analysis, bash scripts for running jobs on HPC system, wrote Keras callbacks, utilized Tensorboard dashboards, and generated parallel coordinate graphs using Matplotlib
 ![Pions](/media/Best-reducedchi2-Pions.png)
 ![Photons](/media/imageData-High12.png)
 
