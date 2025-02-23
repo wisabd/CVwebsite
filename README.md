@@ -43,11 +43,9 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 ![Pions](/media/Best-reducedchi2-Pions.png)
 ![Photons](/media/imageData-High12.png)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-
+**Bachelor Thesis Project @ BMM Laboratory KAIST, Daejeon, South Korea (_February 2019 - September 2019_)**
+- Wrote MATLAB scripts to calculate Fast Fourier Transform of the bioelectrical signals, used structural mechanics module of COMSOL to conduct static analysis of displacement of the Multi electrode array, and designed chip using Autodesk 3dsMax.
+![Signal](/media/Screenshot 2025-02-23 194151.png)
 
 ## Education
 - M.S.,Physics|University of Bologna (March 2025)
