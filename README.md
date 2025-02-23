@@ -32,14 +32,16 @@ Here are some of the open-source projects I have worked on:
   A machine learning project using gradient boosting trees to predict bankruptcy for companies in Poland.
  [Repository](https://github.com/wisabd/BankruptcyPoland)
 
-### Research
+ ## Research
 **Master Thesis Project @ ATLAS Collaboration,  Geneva, Switzerland (_August 2024 - Present_)**
-- Tuned hyperparameters of the BoloGAN, a conditional WGAN‑Gradient Penalty model simulating ATLAS calorimeter, using grid search
-algorithm based on the validation metric of reduced chi squares between Geant4 and generated energy distributions, on LXBATCH
-cluster at CERN.
-- Developed python scripts for data analysis, bash scripts for running jobs on HPC system, wrote Keras callbacks, utilized Tensorboard
-dashboards, and generated parallel coordinate graphs using Matplotlib.
--asd
+- Tuned hyperparameters of the BoloGAN, a conditional WGAN‑Gradient Penalty model simulating ATLAS calorimeter, using grid search algorithm based on the validation metric of reduced chi squares between Geant4 and generated energy distributions, on LXBATCH cluster at CERN.
+- Developed python scripts for data analysis, bash scripts for running jobs on HPC system, wrote Keras callbacks, utilized Tensorboard dashboards, and generated parallel coordinate graphs using Matplotlib
+
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+
 
 ### Education
 - M.S.,Physics|University of Bologna (March 2025)
