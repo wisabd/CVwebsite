@@ -53,6 +53,14 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - A-level,Sciences and Computer Science|Lahore Grammar School JT Boys (June 2015)
 
 ### Coursework
-
+- Practical Statistics for Physics and Astrophysics (Graduate)
+- Statistical Mechanics (Graduate)
+- Particle Physics (Graduate)
+- Nuclear Physics (Graduate)
+- Machine Learning
+- Probability and Introductory Random Processes
+- Programming Structure in C i.e. Linux Shell Programming
+- Programming in Python
+- Data Structures and Algorithms C++
 
 ### Academic Projects
