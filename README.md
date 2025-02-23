@@ -8,11 +8,13 @@ larity for particle physics research at CERN. Looking to translate research trai
 businesses make production‑ready applied AI products.
 
 ### Technical Skills
-**Programming:** Python, C/C++, Bash, MATLAB
-**HPC and AI:** HPC Simulations, Deep Neural Networks (DNNs), Performance Optimization
-**Software Development Tools:** Git, Debugging, Build Systems (CMake, Makefile), GitLab
-**Containerization & Cloud:** Docker, Singularity
-**OS and Workflows:** Linux Command Line, Research Data Management
+- **Programming Languages**: Python, Bash, C/C++, MATLAB
+- **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
+- **DevOps**: Docker, Singularity, GitHub Actions
+- **Databases**: MySQL, MongoDB, NoSQL
+- **HPC and AI:** HPC Simulations, Deep Neural Networks (DNNs), Performance Optimization
+- **Tools**: Git, VS Code, Jupyter Notebook, Linux, Build Systems (CMake, Makefile)
+- **Soft Skills**: Communication, Teamwork, Problem-Solving, Time Management
 
 ### Opensource
 **Advanced RAG pipelines powered by LLMs**
