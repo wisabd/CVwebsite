@@ -17,12 +17,12 @@ businesses make production‑ready applied AI products.
 - **Soft Skills**: Communication, Teamwork, Problem-Solving, Time Management
 
 ### Opensource
-**Advanced RAG pipelines powered by LLMs**
-• Built a sub-question query system, 
-**CNN-based self driving car simulation**
-• ad
-**Gradient boosting trees for bankruptcy prediction in Poland**
-• asd
+-**Advanced RAG pipelines powered by LLMs**
+    -
+-**CNN-based self driving car simulation**
+    -
+-**Gradient boosting trees for bankruptcy prediction in Poland**
+
 
 ### Research
 **Master Thesis Project @ ATLAS Collaboration,  Geneva, Switzerland (_August 2024 - Present_)**
