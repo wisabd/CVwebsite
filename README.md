@@ -52,7 +52,7 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - B.S,Electrical Engineering|Korea Advanced Institute of Science and Technology (February 2020)
 - A-level,Sciences and Computer Science|Lahore Grammar School JT Boys (June 2015)
 
-### Coursework
+## Coursework
 - Practical Statistics for Physics and Astrophysics (Graduate)
 - Statistical Mechanics (Graduate)
 - Particle Physics (Graduate)
@@ -63,4 +63,4 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - Programming in Python
 - Data Structures and Algorithms C++
 
-### Academic Projects
+## Academic Projects
