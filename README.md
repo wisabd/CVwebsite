@@ -1,6 +1,6 @@
 # Your Name  
 **AI Engineer | Computational Physicist | Data Scientist**  
-📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](M. Wisal Abdullah) | 🐙 [GitHub](github.com/wisabd)
+📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub](github.com/wisabd)
 
 ---
 
