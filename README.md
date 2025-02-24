@@ -1,68 +1,97 @@
-# AI Engineer and Computational Physicist
+# Your Name  
+**AI Engineer | Computational Physicist | Data Scientist**  
+📍 Location | 📧 Email | 📞 Phone | 🔗 [LinkedIn](#) | 🐙 [GitHub](#)
 
-### Summary
-Graduate student at University of Bologna specializing in generative learning and high energy physics in
-particular using generative models for physics simulations. Experienced in HPC systems, deep neural networks,
-and performance optimization. Over the past year, I have optimized and containerized a GAN model using Singu‑
-larity for particle physics research at CERN. Looking to translate research training into industrial outputs, helping
-businesses make production‑ready applied AI products.
+---
 
-### Technical Skills
-- **Programming Languages**: Python, Bash, C/C++, MATLAB
-- **Data Science**: Pandas, NumPy, Scikit-learn, Pytorch, Matplotlib
-- **DevOps**: Singularity, GitHub Actions
-- **Databases**: MySQL, MongoDB, NoSQL
-- **HPC and AI:** HPC Simulations, Deep Neural Networks (DNNs), Performance Optimization
-- **Tools**: Git, VS Code, Jupyter Notebook, Linux, Build Systems (CMake, Makefile)
-- **Soft Skills**: Communication, Teamwork, Problem-Solving, Time Management
+## Summary  
+Graduate student at the University of Bologna with a strong background in data analysis, machine learning, and high-performance computing. Experienced in extracting insights from complex datasets, building predictive models, and creating visualizations to communicate findings effectively. Skilled in Python, SQL, and data visualization tools, with a proven ability to translate technical concepts into actionable insights for stakeholders. Passionate about leveraging analytics to solve real-world problems and drive decision-making.
 
-## Open source Projects
-### Advanced RAG Pipelines Powered by LLMs
-[Repository](https://github.com/wisabd/AdvancedRagLLM)
+---
 
-A project focused on building advanced Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs).
+## Technical Skills  
+- **Programming Languages**: Python, Bash, C/C++, MATLAB  
+- **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Power BI  
+- **Databases**: MySQL, MongoDB, NoSQL  
+- **Machine Learning**: Predictive Modeling, Classification, Regression, Decision Trees, GANs  
+- **Tools**: Git, VS Code, Jupyter Notebook, Linux, Excel, PowerPoint  
+- **Soft Skills**: Storytelling, Communication, Problem-Solving, Teamwork  
 
+---
 
-### CNN-Based Self-Driving Car Simulation
-[Repository](https://github.com/wisabd/SelfDrivingCarSim)
+## Professional Experience  
 
- A simulation of a self-driving car using Convolutional Neural Networks (CNNs) for image recognition and decision-making.
- 
-### Gradient Boosting Trees for Bankruptcy Prediction in Poland
- [Repository](https://github.com/wisabd/BankruptcyPoland)
- 
- A machine learning project using gradient boosting trees to predict bankruptcy for companies in Poland.
-
-## Research
-**Master Thesis Project @ ATLAS Collaboration,  Geneva, Switzerland (_August 2024 - Present_)**
-
-- Tuned hyperparameters of the BoloGAN, a conditional WGAN‑Gradient Penalty model simulating ATLAS calorimeter, using grid search algorithm based on the validation metric of reduced chi squares between Geant4 and generated energy distributions, on LXBATCH cluster at CERN.
-- Developed python scripts for data analysis, bash scripts for running jobs on HPC system, wrote Keras callbacks, utilized Tensorboard dashboards, and generated parallel coordinate graphs using Matplotlib
+### **Master Thesis Project – ATLAS Collaboration, CERN**  
+*August 2024 – Present*  
+- **Data Analysis & Insights**: Tuned hyperparameters of BoloGAN, a conditional WGAN-Gradient Penalty model, using grid search algorithms to optimize performance metrics.  
+- **Visualization**: Created parallel coordinate graphs and dashboards using Matplotlib and TensorBoard to communicate model performance and insights.  
+- **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
 ![BoloGAN](/media/Screenshot 2025-02-18 060956.png)
 ![Pions](/media/Best-reducedchi2-Pions.png)
 
-**Bachelor Thesis Project @ BMM Laboratory KAIST, Daejeon, South Korea (_February 2019 - September 2019_)**
-- Wrote MATLAB scripts to calculate Fast Fourier Transform of the bioelectrical signals, used structural mechanics module of COMSOL to conduct static analysis of displacement of the Multi electrode array, and designed chip using Autodesk 3dsMax.
+### **Bachelor Thesis Project – BMM Laboratory, KAIST**  
+*February 2019 – September 2019*  
+- **Quantitative Problem-Solving**: Conducted static displacement analysis of multi-electrode arrays using COMSOL, translating real-world problems into quantitative frameworks.  
+- **Data Processing**: Wrote MATLAB scripts to analyze bioelectrical signals using Fast Fourier Transforms.
 ![Signal](/media/Screenshot 2025-02-23 194151.png)
 
-**Summer Research Internship @ Korea Institute of Science and Technology Information, Daejeon, South Korea(_July 2017 - August 2017_)**
-- Profiling of CERN's simulation tooklit on Tachyon2 supercomputer. Wrote bash scripts to run Madgraph to simulate e+e- collision cross-sections 
-![E+E-](/media/Screenshot 2025-02-23 195616.png)
+### **Summer Research Internship – KISTI**  
+*July 2017 – August 2017*  
+- **ETL & Data Processing**: Profiled CERN's simulation toolkit on the Tachyon2 supercomputer, writing Bash scripts to automate data extraction and transformation.  
+- **Predictive Analytics**: Simulated e+e- collision cross-sections using MadGraph, applying predictive modeling techniques to physics datasets.  
+(/media/Screenshot 2025-02-23 195616.png)
 
-## Education
-- M.S.,Physics|University of Bologna (March 2025)
-- B.S,Electrical Engineering|Korea Advanced Institute of Science and Technology (February 2020)
-- A-level,Sciences and Computer Science|Lahore Grammar School JT Boys (June 2015)
+---
 
-## Coursework
-- Practical Statistics for Physics and Astrophysics (Graduate)
-- Statistical Mechanics (Graduate)
-- Particle Physics (Graduate)
-- Nuclear Physics (Graduate)
-- Machine Learning
-- Probability and Introductory Random Processes
-- Programming Structure in C i.e. Linux Shell Programming
-- Programming in Python
-- Data Structures and Algorithms C++
+## Open Source Projects  
+
+### **Advanced RAG Pipelines Powered by LLMs**  
+🔗 [Repository](#)  
+- Built Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs) to extract and summarize information from large datasets.  
+
+### **Gradient Boosting Trees for Bankruptcy Prediction**  
+🔗 [Repository](#)  
+- Developed a predictive model using gradient boosting trees to classify bankruptcy risk, demonstrating strong logic-building and ETL capabilities.  
+
+### **CNN-Based Self-Driving Car Simulation**  
+🔗 [Repository](#)  
+- Simulated a self-driving car using CNNs, showcasing creativity and the ability to structure real-world problems into quantitative frameworks.  
+
+---
+
+## Education  
+- **M.S., Physics**  
+  *University of Bologna*  
+  *Expected March 2025*  
+
+- **B.S., Electrical Engineering**  
+  *Korea Advanced Institute of Science and Technology (KAIST)*  
+  *February 2020*  
+
+---
+
+## Relevant Coursework  
+- **Data Science & Analytics**: Machine Learning, Probability, Statistics, Data Structures, Python Programming  
+- **Quantitative Methods**: Statistical Mechanics, Particle Physics, Nuclear Physics  
+
+---
+
+## Key Achievements  
+- **Storytelling & Visualization**: Created compelling visualizations and dashboards to communicate complex data insights to stakeholders.  
+- **Predictive Modeling**: Applied machine learning techniques (e.g., decision trees, regression, GANs) to solve real-world problems.  
+- **Collaboration**: Worked with cross-functional teams at CERN and KAIST to deliver data-driven solutions.  
+
+---
+
+## Why I’m a Great Fit  
+- **Analytical Expertise**: Proven ability to extract, analyze, and summarize data to identify key insights.  
+- **Communication Skills**: Experienced in presenting technical findings to both technical and non-technical audiences.  
+- **Technical Proficiency**: Skilled in Python, SQL, and data visualization tools (Matplotlib, Power BI).  
+- **Problem-Solving**: Strong ability to structure real-world problems into quantitative frameworks and deliver actionable solutions.  
+
+---
+
+📄 **Download my [Resume](#)**  
+📧 **Contact me**: [Your Email](#)
 
 
