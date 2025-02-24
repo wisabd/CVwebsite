@@ -9,8 +9,8 @@ businesses make production‑ready applied AI products.
 
 ### Technical Skills
 - **Programming Languages**: Python, Bash, C/C++, MATLAB
-- **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
-- **DevOps**: Docker, Singularity, GitHub Actions
+- **Data Science**: Pandas, NumPy, Scikit-learn, Pytorch, Matplotlib
+- **DevOps**: Singularity, GitHub Actions
 - **Databases**: MySQL, MongoDB, NoSQL
 - **HPC and AI:** HPC Simulations, Deep Neural Networks (DNNs), Performance Optimization
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Build Systems (CMake, Makefile)
@@ -21,7 +21,6 @@ businesses make production‑ready applied AI products.
 [Repository](https://github.com/wisabd/AdvancedRagLLM)
 
 A project focused on building advanced Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs).
-
 
 
 ### CNN-Based Self-Driving Car Simulation
@@ -66,4 +65,4 @@ A project focused on building advanced Retrieval-Augmented Generation (RAG) pipe
 - Programming in Python
 - Data Structures and Algorithms C++
 
-## Medium Articles
+
