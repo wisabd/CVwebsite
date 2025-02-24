@@ -1,6 +1,6 @@
 # Your Name  
 **AI Engineer | Computational Physicist | Data Scientist**  
-📍 Location | 📧 Email | 📞 Phone | 🔗 [LinkedIn](#) | 🐙 [GitHub](#)
+📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](M. Wisal Abdullah) | 🐙 [GitHub](wisabd)
 
 ---
 
@@ -11,7 +11,7 @@ Graduate student at the University of Bologna with a strong background in data a
 
 ## Technical Skills  
 - **Programming Languages**: Python, Bash, C/C++, MATLAB  
-- **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Power BI  
+- **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib 
 - **Databases**: MySQL, MongoDB, NoSQL  
 - **Machine Learning**: Predictive Modeling, Classification, Regression, Decision Trees, GANs  
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Excel, PowerPoint  
