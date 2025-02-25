@@ -96,8 +96,9 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 
 ## Why I’m a Great Fit  
 - **Analytical Expertise**: Proven ability to extract, analyze, and summarize data to identify key insights.  
-- **Communication Skills**: Experienced in presenting technical findings to both technical and non-technical audiences.  
-- **Technical Proficiency**: Skilled in Python, SQL, and data visualization tools (Matplotlib, Power BI).  
+- **Communication Skills**: Experienced in presenting technical findings to both technical and non-technical audiences.
+- **Natural Curiosity**: Open and highly interested in learning on-the-go  
+- **Technical Proficiency**: Skilled in Python and data visualization tools (Matplotlib, Excel dashboards).  
 - **Problem-Solving**: Strong ability to structure real-world problems into quantitative frameworks and deliver actionable solutions.  
 
 ---
