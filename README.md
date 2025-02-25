@@ -27,12 +27,7 @@ Graduate student at the University of Bologna with a strong background in data a
 - **Visualization**: Created parallel coordinate graphs and dashboards using Matplotlib and TensorBoard to communicate model performance and insights.  
 - **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
 
-![BoloGAN](/media/Screenshot 2025-02-18 060956.png){: width="200"}
-
-#![Pions](/media/Best-reducedchi2-Pions.png){: width="100"}
-#![CSVFiles](https://github.com/user-attachments/assets/68349657-72de-45c5-939e-d1d1191009cf){: width="100"}
-
-
+![BoloGAN](/media/Screenshot 2025-02-18 060956.png)
 
 ### **Bachelor Thesis Project – BMM Laboratory, KAIST**  
 *February 2019 – September 2019*  
