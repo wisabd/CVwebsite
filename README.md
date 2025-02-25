@@ -5,7 +5,7 @@ Analytics & Data Science | Computational Physics
 ---
 
 ## Summary  
-Graduate student at the University of Bologna with a strong background in data analysis, machine learning, and high-performance computing. Experienced in extracting insights from complex datasets, building predictive models, and creating visualizations to communicate findings effectively. Skilled in Python with a focus on data visualization tools, with a proven ability to translate technical concepts into actionable insights for stakeholders. Passionate about leveraging analytics to solve real-world problems and drive decision-making.
+Graduate student at the University of Bologna with a 2+ years of background in research in data analysis, machine learning, and high-performance computing. Experienced in extracting insights from complex datasets, building predictive models, and creating visualizations to communicate findings effectively. Skilled in Python specially data visualization tools, with ability to translate technical concepts into actionable insights for stakeholders. Passionate about leveraging analytics to solve real-world problems and drive decision-making. Looking to translate research training into industrial outputs, helping businesses make production-ready applied AI products and analytic tools.
 
 ---
 
