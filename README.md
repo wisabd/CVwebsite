@@ -1,5 +1,5 @@
-# Your Name  
-**AI Engineer | Computational Physicist | Data Scientist**  
+# Muhammad Wisal Abdullah
+**Analytics & Data Science | Computational Physics **  
 📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub](github.com/wisabd)
 
 ---
@@ -12,7 +12,7 @@ Graduate student at the University of Bologna with a strong background in data a
 ## Technical Skills  
 - **Programming Languages**: Python, Bash, C/C++, MATLAB  
 - **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib 
-- **Databases**: MySQL, MongoDB, NoSQL  
+- **Databases**: MongoDB, NoSQL  
 - **Machine Learning**: Predictive Modeling, Classification, Regression, Decision Trees, GANs  
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Excel, PowerPoint  
 - **Soft Skills**: Storytelling, Communication, Problem-Solving, Teamwork  
@@ -56,7 +56,7 @@ Graduate student at the University of Bologna with a strong background in data a
 ### **Bayesian Paramter Estimation**  
 🔗 [Repository](#)  
 - Built Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs) to extract and summarize information from large datasets.  
-<img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
+<img width="212" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
 <img width="212" alt="Screenshot 2025-02-24 073829" src="https://github.com/user-attachments/assets/74fd2cf8-bc98-4d42-9fe8-ee220a6c1336" />
 
 ---
