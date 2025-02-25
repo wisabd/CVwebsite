@@ -1,5 +1,5 @@
 # Muhammad Wisal Abdullah
-##Analytics & Data Science | Computational Physics##  
+Analytics & Data Science | Computational Physics 
 📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub](github.com/wisabd)
 
 ---
@@ -27,7 +27,7 @@ Graduate student at the University of Bologna with a strong background in data a
 - **Visualization**: Created parallel coordinate graphs and dashboards using Matplotlib and TensorBoard to communicate model performance and insights.  
 - **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
 
-<img width="250" alt="Screenshot 2025-02-18 060956" src="https://github.com/user-attachments/assets/34b6453c-6991-46fa-b721-09f6860e963c" />
+<img width="350" alt="Screenshot 2025-02-18 060956" src="https://github.com/user-attachments/assets/34b6453c-6991-46fa-b721-09f6860e963c" />
 
 
 ### **Bachelor Thesis Project – BMM Laboratory, KAIST**  
@@ -35,7 +35,7 @@ Graduate student at the University of Bologna with a strong background in data a
 - **Quantitative Problem-Solving**: Conducted static displacement analysis of multi-electrode arrays using COMSOL, translating real-world problems into quantitative frameworks.  
 - **Data Processing**: Wrote MATLAB scripts to analyze bioelectrical signals using Fast Fourier Transforms.
   
-<img width="250" alt="Screenshot 2025-02-23 194151" src="https://github.com/user-attachments/assets/023a17a8-6084-49e9-bd07-d13d9767427a" />
+<img width="350" alt="Screenshot 2025-02-23 194151" src="https://github.com/user-attachments/assets/023a17a8-6084-49e9-bd07-d13d9767427a" />
 
 
 ### **Summer Research Internship – KISTI**  
@@ -43,7 +43,7 @@ Graduate student at the University of Bologna with a strong background in data a
 - **ETL & Data Processing**: Profiled CERN's simulation toolkit on the Tachyon2 supercomputer, writing Bash scripts to automate data extraction and transformation.  
 - **Predictive Analytics**: Simulated e+e- collision cross-sections using MadGraph, applying predictive modeling techniques to physics datasets.
 
-<img width="250" alt="Screenshot 2025-02-23 195616" src="https://github.com/user-attachments/assets/b2393382-e004-4c30-a8c8-1a6d2af1d27b" />
+<img width="350" alt="Screenshot 2025-02-23 195616" src="https://github.com/user-attachments/assets/b2393382-e004-4c30-a8c8-1a6d2af1d27b" />
 
 
 ---
@@ -61,8 +61,8 @@ Graduate student at the University of Bologna with a strong background in data a
 ### **Bayesian Paramter Estimation**  
 🔗 [Repository](https://github.com/wisabd/Statistics.Phy.Astrophysics/tree/main)  
 -   To measure the strength and width of a spectral line task using Bayesian parameter estimation.  
-<img width="212" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
-<img width="212" alt="Screenshot 2025-02-24 073829" src="https://github.com/user-attachments/assets/74fd2cf8-bc98-4d42-9fe8-ee220a6c1336" />
+<img width="280" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
+<img width="280" alt="Screenshot 2025-02-24 073829" src="https://github.com/user-attachments/assets/74fd2cf8-bc98-4d42-9fe8-ee220a6c1336" />
 
 ---
 
