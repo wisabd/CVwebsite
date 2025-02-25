@@ -1,11 +1,11 @@
 # Muhammad Wisal Abdullah
 Analytics & Data Science | Computational Physics 
-📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [Visit my GitHub repository](https://github.com/wisabd)
+📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub repository](https://github.com/wisabd)
 
 ---
 
 ## Summary  
-Graduate student at the University of Bologna with a strong background in data analysis, machine learning, and high-performance computing. Experienced in extracting insights from complex datasets, building predictive models, and creating visualizations to communicate findings effectively. Skilled in Python, SQL, and data visualization tools, with a proven ability to translate technical concepts into actionable insights for stakeholders. Passionate about leveraging analytics to solve real-world problems and drive decision-making.
+Graduate student at the University of Bologna with a strong background in data analysis, machine learning, and high-performance computing. Experienced in extracting insights from complex datasets, building predictive models, and creating visualizations to communicate findings effectively. Skilled in Python with a focus on data visualization tools, with a proven ability to translate technical concepts into actionable insights for stakeholders. Passionate about leveraging analytics to solve real-world problems and drive decision-making.
 
 ---
 
