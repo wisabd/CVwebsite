@@ -1,6 +1,6 @@
 # Muhammad Wisal Abdullah
 Analytics & Data Science | Computational Physics 
-📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub](wisabd)
+📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [Visit my GitHub repository](https://github.com/wisabd)
 
 ---
 
