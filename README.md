@@ -45,17 +45,19 @@ Graduate student at the University of Bologna with a strong background in data a
 
 ## Open Source Projects  
 
-### **Advanced RAG Pipelines Powered by LLMs**  
-🔗 [Repository](#)  
-- Built Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs) to extract and summarize information from large datasets.  
-
-### **Gradient Boosting Trees for Bankruptcy Prediction**  
+### **Gradient Boosting Trees for Bankruptcy Prediction (In Progress)**  
 🔗 [Repository](#)  
 - Developed a predictive model using gradient boosting trees to classify bankruptcy risk, demonstrating strong logic-building and ETL capabilities.  
 
-### **CNN-Based Self-Driving Car Simulation**  
+### **A/B Testing at WorldQuant University (In Progress)**  
 🔗 [Repository](#)  
-- Simulated a self-driving car using CNNs, showcasing creativity and the ability to structure real-world problems into quantitative frameworks.  
+- Developing a 3-tier interactive web dashboard integrating the hypothesis testing process.  
+
+### **Bayesian Paramter Estimation**  
+🔗 [Repository](#)  
+- Built Retrieval-Augmented Generation (RAG) pipelines using Large Language Models (LLMs) to extract and summarize information from large datasets.  
+<img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
+<img width="212" alt="Screenshot 2025-02-24 073829" src="https://github.com/user-attachments/assets/74fd2cf8-bc98-4d42-9fe8-ee220a6c1336" />
 
 ---
 
