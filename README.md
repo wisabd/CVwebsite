@@ -101,7 +101,7 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 
 ---
 
-📄 **Download my [Resume](#)**  
+📄 **Download my [Resume](/CV.pdf)**  
 📧 **Contact me**: [wisal.abdullah.m@gmail.com](#)
 
 
