@@ -61,7 +61,7 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 - Developing a 3-tier interactive web dashboard integrating the hypothesis testing process leading to improvement in student performance at the online learning platform.
 - Libraries: scipy, numpy, pandas, mongorepository
 
-### **Bayesian Paramter Estimation**  
+### **Bayesian Parameter Estimation**  
 🔗 [Repository](https://github.com/wisabd/Statistics.Phy.Astrophysics/tree/main)  
 -   To measure the strength and width of a spectral line task using Bayesian parameter estimation.
 -   Libraries: matplotlib, numpy, pandas, astropy.io
