@@ -12,7 +12,7 @@ Graduate student at the University of Bologna with a strong background in data a
 ## Technical Skills  
 - **Programming Languages**: Python, Bash, C/C++, MATLAB  
 - **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib 
-- **Databases**: MongoDB, NoSQL  
+- **Databases**: MongoDB, NoSQL, Excel  
 - **Machine Learning**: Predictive Modeling, Classification, Regression, Decision Trees, GANs  
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Excel, PowerPoint  
 - **Soft Skills**: Storytelling, Communication, Problem-Solving, Teamwork  
@@ -52,15 +52,18 @@ Graduate student at the University of Bologna with a strong background in data a
 
 ### **Gradient Boosting Trees for Bankruptcy Prediction (In Progress)**  
 🔗 [Repository](#)  
-- Developed a predictive model using gradient boosting trees to classify bankruptcy risk, demonstrating strong logic-building and ETL capabilities.  
-
+- Developing a supervised predictive model using gradient boosting trees to classify bankruptcy risk of companies in Poland.
+- Libraries: seaborn, pandas, sklearn, matplotlib
+  
 ### **A/B Testing at WorldQuant University (In Progress)**  
 🔗 [Repository](#)  
-- Developing a 3-tier interactive web dashboard integrating the hypothesis testing process leading to improvement in student performance at the online learning platform. 
+- Developing a 3-tier interactive web dashboard integrating the hypothesis testing process leading to improvement in student performance at the online learning platform.
+- Libraries: scipy, numpy, pandas, mongorepository
 
 ### **Bayesian Paramter Estimation**  
 🔗 [Repository](https://github.com/wisabd/Statistics.Phy.Astrophysics/tree/main)  
--   To measure the strength and width of a spectral line task using Bayesian parameter estimation.  
+-   To measure the strength and width of a spectral line task using Bayesian parameter estimation.
+-   Libraries: matplotlib, numpy, pandas, astropy.io
 <img width="280" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
 <img width="280" alt="Screenshot 2025-02-24 073829" src="https://github.com/user-attachments/assets/74fd2cf8-bc98-4d42-9fe8-ee220a6c1336" />
 
