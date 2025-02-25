@@ -42,7 +42,7 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 ### **Summer Research Internship – KISTI**  
 *July 2017 – August 2017*  
 - **ETL & Data Processing**: Profiled CERN's simulation toolkit on the Tachyon2 supercomputer, writing Bash scripts to automate data extraction and transformation.  
-- **Predictive Analytics**: Simulated e+e- collision cross-sections using MadGraph, applying predictive modeling techniques to physics datasets.
+- **Data**: Simulated e+e- collision cross-sections using MadGraph, created visualization of physics datasets via Excel dashboards.
 
 <img width="350" alt="Screenshot 2025-02-23 195616" src="https://github.com/user-attachments/assets/b2393382-e004-4c30-a8c8-1a6d2af1d27b" />
 
