@@ -28,8 +28,9 @@ Graduate student at the University of Bologna with a strong background in data a
 - **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
 
 ![BoloGAN](/media/Screenshot 2025-02-18 060956.png){: width="200"}
-![Pions](/media/Best-reducedchi2-Pions.png){: width="100"}
-![CSVFiles](https://github.com/user-attachments/assets/68349657-72de-45c5-939e-d1d1191009cf){: width="100"}
+
+#![Pions](/media/Best-reducedchi2-Pions.png){: width="100"}
+#![CSVFiles](https://github.com/user-attachments/assets/68349657-72de-45c5-939e-d1d1191009cf){: width="100"}
 
 
 
