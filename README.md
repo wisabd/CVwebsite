@@ -26,8 +26,8 @@ Graduate student at the University of Bologna with a strong background in data a
 - **Data Analysis & Insights**: Tuned hyperparameters of BoloGAN, a conditional WGAN-Gradient Penalty model, using grid search algorithms to optimize performance metrics.  
 - **Visualization**: Created parallel coordinate graphs and dashboards using Matplotlib and TensorBoard to communicate model performance and insights.  
 - **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
-![BoloGAN](/media/Screenshot 2025-02-18 060956.png){: width="400"}
-![Pions](/media/Best-reducedchi2-Pions.png){: width="400"}
+![BoloGAN](/media/Screenshot 2025-02-18 060956.png){: width="200"}
+![Pions](/media/Best-reducedchi2-Pions.png){: width="200"}
 
 
 ### **Bachelor Thesis Project – BMM Laboratory, KAIST**  
