@@ -27,7 +27,7 @@ Graduate student at the University of Bologna with a strong background in data a
 - **Visualization**: Created parallel coordinate graphs and dashboards using Matplotlib and TensorBoard to communicate model performance and insights.  
 - **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
 ![BoloGAN](/media/Screenshot 2025-02-18 060956.png)
-![Pions](/media/Best-reducedchi2-Pions.png)
+<img src="/media/Best-reducedchi2-Pions.png" alt="Pions" width="400" />
 
 ### **Bachelor Thesis Project – BMM Laboratory, KAIST**  
 *February 2019 – September 2019*  
@@ -92,6 +92,6 @@ Graduate student at the University of Bologna with a strong background in data a
 ---
 
 📄 **Download my [Resume](#)**  
-📧 **Contact me**: [Your Email](#)
+📧 **Contact me**: [wisal.abdullah.m@gmail.com](#)
 
 
