@@ -1,4 +1,4 @@
-# Muhammad Wisal Abdullah
+*# Muhammad Wisal Abdullah
 Analytics & Data Science | Computational Physics 
 📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub repository](https://github.com/wisabd)
 
@@ -79,7 +79,11 @@ Regression
 
 - **B.S., Electrical Engineering**  
   *Korea Advanced Institute of Science and Technology (KAIST)*  
-  *February 2020*  
+  *February 2020*
+  
+- **A-level, Sciences and Computer Science**  
+  *LGS-JT*  
+  *July 2015*  
 
 ---
 
