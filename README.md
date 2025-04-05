@@ -29,7 +29,7 @@ in finance and contribute to the development of cutting-edge solutions
 🔗 [Repository](#)  
 - Determine classifier accuracy between Logistic Regression, KNearest, Support Vector Classifier, DecisionTreeClassifier to detect
 fraudulent credit card transactions. Implement a simple neural network to test performance of linear regression in oversampled and undersampled dataframe. Implement Synthetic Minority Oversampling technique
-- Libraries: seaborn, pandas, sklearn, matplotlib
+- Libraries: Ssklearn, matplotlib, SMOTE, scipy, seaborn
   
 ### **Credit card Fraud detection in a Production System**  
 🔗 [Repository](#)  
