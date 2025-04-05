@@ -1,5 +1,5 @@
 *# Muhammad Wisal Abdullah
-Analytics & Data Science | Computational Physics 
+Data Analyst | Machine Learning Engineer
 📍 Lahore, PK | 📧 wisal.abdullah.m@gmail.com | 📞 +923337116161 | 🔗 [LinkedIn](https://www.linkedin.com/in/m-wisal-abdullah-007a6464/) | 🐙 [GitHub repository](https://github.com/wisabd)
 
 ---
@@ -11,9 +11,8 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 ---
 
 ## Technical Skills  
-- **Programming Languages**: Python, Bash, C/C++, MATLAB  
+- **Programming Languages**: Python, Bash, MATLAB, SQL  
 - **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib 
-- **Databases**: MongoDB, NoSQL, Excel  
 - **Machine Learning**: Predictive Modeling, Classification, Regression, Decision Trees, GANs  
 - **Tools**: Git, VS Code, Jupyter Notebook, Linux, Excel, PowerPoint  
 - **Soft Skills**: Storytelling, Communication, Problem-Solving, Teamwork  
@@ -51,14 +50,15 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 
 ## Open Source Projects  
 
-### **Gradient Boosting Trees for Bankruptcy Prediction (In Progress)**  
+### **Credit Card Fraud Detection**  
 🔗 [Repository](#)  
-- Developing a supervised predictive model using gradient boosting trees to classify bankruptcy risk of companies in Poland.
+- Determine classifier accuracy between Logistic Regression, KNearest, Support Vector Classifier, DecisionTreeClassifier to detect
+fraudulent credit card transactions. Implement a simple neural network to test performance of linear regression in oversampled and undersampled dataframe. Implement Synthetic Minority Oversampling technique
 - Libraries: seaborn, pandas, sklearn, matplotlib
   
-### **A/B Testing at WorldQuant University (In Progress)**  
+### **Credit card Fraud detection in a Production System**  
 🔗 [Repository](#)  
-- Developing a 3-tier interactive web dashboard integrating the hypothesis testing process leading to improvement in student performance at the online learning platform.
+- 
 - Libraries: scipy, numpy, pandas, mongorepository
 
 ### **Practical Statistics for Physics and Astrophysics**  
