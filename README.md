@@ -6,7 +6,12 @@ Data Analyst | Machine Learning Engineer
 
 ## Summary  
 
-Graduate student at the University of Bologna with a 2+ years of background in research in data analysis, machine learning, and high-performance computing. Experienced in extracting insights from complex datasets, building predictive models, and creating visualizations to communicate findings effectively. Skilled in Python specially data visualization tools, with ability to translate technical concepts into actionable insights for stakeholders. Passionate about leveraging analytics to solve real-world problems and drive decision-making. Looking to translate research training into industrial outputs, helping businesses make production-ready applied AI products and analytic tools.
+A Graduate with a Master degree in Physics from the University of Bologna (Italy) with final project on the application of
+machine learning in particle physics experiments at European Organization for Nuclear Research (CERN). Technically skilled
+in statistical data analysis, machine learning techniques and frameworks. Eager to leverage research expertise in machine
+learning to drive innovation in the financial technology sector, with a focus on enhancing fraud detection, financial analysis,
+and data-driven decision-making. Passionate about applying advanced analytical techniques to solve complex challenges
+in finance and contribute to the development of cutting-edge solutions
 
 ---
 
