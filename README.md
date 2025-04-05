@@ -66,7 +66,7 @@ Graduate student at the University of Bologna with a 2+ years of background in r
 -   8 projects covering central limit theorem, regression, Principal Component Analysis, Monte Carlo Simulation and Bootstrap
 Resampling, Markov Chain Monte Carlo sampler applied to type 1A supernova data, galaxy redshift prediction using Linear
 Regression
--   Libraries: matplotlib, numpy, pandas, astropy.io
+-   Libraries: seaborn, matplotlib, numpy, pandas, astropy.io, sklearn
 <img width="280" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/2b035af0-198d-41fb-b7a3-761e8b2c2714" />
 <img width="280" alt="Screenshot 2025-02-24 073829" src="https://github.com/user-attachments/assets/74fd2cf8-bc98-4d42-9fe8-ee220a6c1336" />
 
