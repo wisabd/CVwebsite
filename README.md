@@ -33,8 +33,8 @@ fraudulent credit card transactions. Implement a simple neural network to test p
   
 ### **Credit card Fraud detection in a Production System**  
 🔗 [Repository](#)  
--  Two sagemaker models (XGBoost, Random Cut Forrest) deployed, models evoked using API gateway with a lambda function
-- Libraries: scipy, numpy, pandas, mongorepository
+-  Two sagemaker models (XGBoost, Random Cut Forrest) deployed, models evoked using API gateway with a lambda function that invokes both models and stores their response, for further analysis.
+- Libraries: AWS Sagemaker, AWS Lambda, S3, XGBoost, Random Cut Forrest
 
 ### **Practical Statistics for Physics and Astrophysics**  
 🔗 [Repository](https://github.com/wisabd/Statistics.Phy.Astrophysics/tree/main)  
