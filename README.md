@@ -36,7 +36,7 @@ I have an undergraduate background in engineering from KAIST focusing on softwar
 - **Soft Skills**: Storytelling, Communication, Problem-Solving, Teamwork  
 
 ---
-## Open Source Projects  
+## Portfolio 
 
 ### **Credit Card Fraud Detection**  
 🔗 [Repository](#)  
