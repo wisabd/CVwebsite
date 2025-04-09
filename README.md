@@ -6,12 +6,25 @@ Data Analyst | Machine Learning Engineer
 
 ## Summary  
 
-A Graduate with a Master degree in Physics from the University of Bologna (Italy) with final project on the application of
-machine learning in particle physics experiments at European Organization for Nuclear Research (CERN). Technically skilled
-in statistical data analysis, machine learning techniques and frameworks. Eager to leverage research expertise in machine
-learning to drive innovation in the financial technology sector, with a focus on enhancing fraud detection, financial analysis,
-and data-driven decision-making. Passionate about applying advanced analytical techniques to solve complex challenges
-in finance and contribute to the development of cutting-edge solutions
+I am a physicist who loves learning new things and solving problems.
+ 
+I spend most of my time doing data analysis while also gaining important machine learning engineering skills. I have just come fresh out of graduate school where I worked in the domain of experimental particle physics experiment at CERN, providing machine learning solutions. My specializations include the data analysis using standard machine learning algorithms, performance optimization of generative models, and, just recently, pushing models into production to deliver practical solutions to business problems particularly in the domain of financial technologies.
+
+I specialize in the topic of credit card fraud detection using machine learning, and its end-to-end aspects. Proficient in Python, Bash, SQL and AWS for deployment in the cloud. I focus on delivering end-to-end solutions for practical data science projects for data-driven decision making.
+
+Beyond engineering, I am passionate about team-building, implementing innovative technologies, and guiding others in navigating their academic journeys.
+
+Tech stack: Python, Bash, SQL, AWS, FastAPI
+Statistical Tech: Exploratory Data Analysis (EDA), Probability Distributions, Point Estimation, Interval Estimation, Hypothesis Testing, Two-sample t-test, Paired t-test, ANOVA
+ML: Linear Regression, Logistic Regression, Random Forest, Decision Trees, Gradient Boosting, Generative Adversarial Networks 
+
+Projects:
+1. EU Credit Card fraud detection using ML
+2. EU Credit Card fraud detection using ML in Production
+3. Hyperparameter optimization of BoloGAN - M.Sc Thesis project
+4. Practical Statistics projects
+
+I have an undergraduate background in engineering from KAIST focusing on software + signals side
 
 ---
 
