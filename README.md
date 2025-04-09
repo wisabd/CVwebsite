@@ -69,7 +69,7 @@ Regression
 <img width="350" alt="Screenshot 2025-02-23 194151" src="https://github.com/user-attachments/assets/023a17a8-6084-49e9-bd07-d13d9767427a" />
 
 
-### **Summer Research Internship – KISTI**  
+### **Data Analjyst – Korea Institute of Science and Technology Information Institute**  
 *July 2017 – August 2017*  
 - **High Performance Computing**: Profiled CERN's simulation toolkit on the Tachyon2 supercomputer, writing Bash scripts to automate data extraction and transformation.  
 - **Data**: Simulated e+e- collision cross-sections using MadGraph, created visualization of physics datasets via Excel dashboards.
