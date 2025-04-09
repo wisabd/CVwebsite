@@ -61,13 +61,12 @@ Regression
 
 ## Professional Experience  
 
-### **Master Thesis Project – ATLAS Collaboration, CERN**  
+### **AI Graduate Research Assistant – ATLAS Collaboration, CERN**  
 *August 2024 – March 2025*  
 - **Data Analysis & Insights**: Tuned hyperparameters of BoloGAN, a conditional WGAN-Gradient Penalty model, using random search algorithm to optimize performance metrics.  
 - **Visualization**: Created parallel coordinate graphs and dashboards using Matplotlib and TensorBoard to communicate model performance and insights. Resulting in 20 % improvement in the final chi-squared due to HP optimization.
 - **Stakeholder Communication**: Presented findings to senior researchers and collaborators, translating complex technical results into actionable insights.
 
-<img width="350" alt="Screenshot 2025-02-18 060956" src="https://github.com/user-attachments/assets/34b6453c-6991-46fa-b721-09f6860e963c" />
 
 ### **Data Analyst Intern – Wateen Telecom, Lahore**  
 *March 2024 – July 2024*  
