@@ -76,9 +76,10 @@ Regression
 
 ### **Bachelor Thesis Project – BMM Laboratory, KAIST**  
 *February 2019 – September 2019*  
-- **Quantitative Problem-Solving**: Conducted static displacement analysis of multi-electrode arrays using COMSOL, translating real-world problems into quantitative frameworks.  
-- **Data Processing**: Wrote MATLAB scripts to analyze bioelectrical signals using Fast Fourier Transforms.
-  
+ - **Data Processing**: MATLAB Signal Processing Fast Fourier Transform at http://bmm.kaist.ac.kr Prof H. J Lee (PhD, Stanford)
+ - **Engineering Labs Projects**: Beagleboard Black based remote controlled football robot, shell with implementation of pipes, basic commands using C, vending machine using digital logic
+
+
 <img width="350" alt="Screenshot 2025-02-23 194151" src="https://github.com/user-attachments/assets/023a17a8-6084-49e9-bd07-d13d9767427a" />
 
 
